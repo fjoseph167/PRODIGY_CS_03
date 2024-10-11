@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @fjoseph167
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Password Complexity Checker
+Build a tool that assesses the strength of a password based on criteria 
+such as length, presence of uppercase and lowercase letters, numbers, and 
+special characters. Provide feedback to users on the password's strength.
 
-<!---
-fjoseph167/fjoseph167 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Here's a simple Python code for a Password Complexity Checker.
+This code defines a function 'check_password_complexity' that takes a password as input and checks its complexity based on length, uppercase and lowercase letters, digits, and special characters. 
+The 'main' function gets user input for a password and prints the result of the complexity check.
